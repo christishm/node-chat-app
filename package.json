@@ -8,8 +8,8 @@
   },
   "engines":{
     "node":"8.9.4"
-  }
-  "author": "",
+  },
+  "author": "C",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3"
